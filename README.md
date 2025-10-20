@@ -53,5 +53,3 @@ Contributions are welcome! Please fork the repository, create a new branch, and 
 This project is licensed under the MIT License - see the LICENSE
  file for details.
 
-ChatGPT can ma
-
